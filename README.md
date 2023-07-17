@@ -24,7 +24,7 @@
 </div>
 <h4>My Stats :</h4>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rebeca3Luna&theme=dark&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anahi-luna&theme=dark&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebeca3Luna&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anahi-luna&exclude_repo=github-readme-stats,anuraghazra.github.io)
 

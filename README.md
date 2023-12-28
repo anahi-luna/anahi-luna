@@ -24,6 +24,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="github" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="github" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="github" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="github" width="40" height="40">
+
 </div>
 <h4>My Stats :</h4>
 

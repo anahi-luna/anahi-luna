@@ -8,7 +8,7 @@
 
 ### About Me :
 - 🔭 I’m currently working on an E-commerce project with a group of developers.
-- 🌱 I’m currently learning data manipulation with MySQL and Sequelize.
+- 🌱 I’m currently learning Microservices with Spring Boot and Java.
 - 💬 Ask me about JavaScript, HTML, CSS.
 - 📫 How to reach me: rebeca.anahi.luna@gmail.com
 <H5>Languages ​​and tools</H5>
@@ -22,6 +22,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="github" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="github" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="github" width="40" height="40">
 </div>
 <h4>My Stats :</h4>
 
